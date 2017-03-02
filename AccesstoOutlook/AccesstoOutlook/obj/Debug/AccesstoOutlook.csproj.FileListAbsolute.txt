@@ -1,0 +1,16 @@
+C:\Users\Noman\Documents\Visual Studio 2012\Projects\AccesstoOutlook\AccesstoOutlook\bin\Debug\AccesstoOutlook.exe.config
+C:\Users\Noman\Documents\Visual Studio 2012\Projects\AccesstoOutlook\AccesstoOutlook\bin\Debug\AccesstoOutlook.exe.manifest
+C:\Users\Noman\Documents\Visual Studio 2012\Projects\AccesstoOutlook\AccesstoOutlook\bin\Debug\AccesstoOutlook.application
+C:\Users\Noman\Documents\Visual Studio 2012\Projects\AccesstoOutlook\AccesstoOutlook\bin\Debug\AccesstoOutlook.exe
+C:\Users\Noman\Documents\Visual Studio 2012\Projects\AccesstoOutlook\AccesstoOutlook\bin\Debug\AccesstoOutlook.pdb
+C:\Users\Noman\Documents\Visual Studio 2012\Projects\AccesstoOutlook\AccesstoOutlook\obj\Debug\Interop.ADODB.dll
+C:\Users\Noman\Documents\Visual Studio 2012\Projects\AccesstoOutlook\AccesstoOutlook\obj\Debug\AccesstoOutlook.csproj.ResolveComReference.cache
+C:\Users\Noman\Documents\Visual Studio 2012\Projects\AccesstoOutlook\AccesstoOutlook\obj\Debug\AccesstoOutlook.Form1.resources
+C:\Users\Noman\Documents\Visual Studio 2012\Projects\AccesstoOutlook\AccesstoOutlook\obj\Debug\AccesstoOutlook.Notification.resources
+C:\Users\Noman\Documents\Visual Studio 2012\Projects\AccesstoOutlook\AccesstoOutlook\obj\Debug\AccesstoOutlook.Properties.Resources.resources
+C:\Users\Noman\Documents\Visual Studio 2012\Projects\AccesstoOutlook\AccesstoOutlook\obj\Debug\AccesstoOutlook.csproj.GenerateResource.Cache
+C:\Users\Noman\Documents\Visual Studio 2012\Projects\AccesstoOutlook\AccesstoOutlook\obj\Debug\AccesstoOutlook.exe.manifest
+C:\Users\Noman\Documents\Visual Studio 2012\Projects\AccesstoOutlook\AccesstoOutlook\obj\Debug\AccesstoOutlook.application
+C:\Users\Noman\Documents\Visual Studio 2012\Projects\AccesstoOutlook\AccesstoOutlook\obj\Debug\AccesstoOutlook.exe
+C:\Users\Noman\Documents\Visual Studio 2012\Projects\AccesstoOutlook\AccesstoOutlook\obj\Debug\AccesstoOutlook.pdb
+C:\Users\Noman\Documents\Visual Studio 2012\Projects\AccesstoOutlook\AccesstoOutlook\obj\Debug\AccesstoOutlook.csprojResolveAssemblyReference.cache
